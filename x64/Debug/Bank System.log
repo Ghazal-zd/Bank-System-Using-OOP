@@ -1,0 +1,87 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lesson7 _ Main Screen.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Bank System.cpp
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsString.h(29,12): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsString.h(41,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsString.h(154,21): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsString.h(250,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsString.h(274,24): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsString.h(305,16): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsDate.h(4,30): warning C4081: expected 'newline'; found ';'
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsUser.h(149,9): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegister' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System.cpp')
+      C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsUser.h(22,9):
+      see declaration of 'clsUser::stLoginRegister'
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsInputValidate.h(80,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsInputValidate.h(83,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsInputValidate.h(88,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsInputValidate.h(90,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(202,9): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'Bank%20System.cpp')
+      C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(22,9):
+      see declaration of 'clsBankClient::stTransferLog'
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(29,34): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(44,26): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(352,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(362,19): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(382,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsAddNewClientScreen.h(22,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsUpdateClientScreen.h(22,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsFindClientScreen.h(26,21): warning C4129: 'F': unrecognized character escape sequence
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsTotalBalancesScreen.h(45,54): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsTransferScreen.h(32,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsCurrency.h(26,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsUpdateCurrencyScreen.h(23,43): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsCurrencyCalculatorScreen.h(22,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'Bank%20System.cpp')
+  
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsBankClient.h(314,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\VICTUS\Desktop\BankSystem using oop\Bank System\clsUser.h(299,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\VICTUS\Desktop\BankSystem using oop\x64\Debug\Bank System.exe
